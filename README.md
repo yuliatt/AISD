@@ -1,2 +1,2 @@
 # AISD
-Algoritms and Data Structures, FAMCS
+Algorithms and Data Structures, FAMCS
